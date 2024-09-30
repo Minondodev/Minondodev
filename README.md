@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Minondodev
-- 👀 I’m interested in mathematics, programming.
+- 👀 I’m interested in mathematics and informatics.
 - 🌱 I’m currently learning robust analytic continuation.
 - 💞️ I’m looking to collaborate on : C++
 - 📫 How to reach me : arnaud.minondo '@' lix.polytechnique.fr
